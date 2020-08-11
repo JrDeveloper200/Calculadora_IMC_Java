@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="informe_a_altura">Informe a Altura</string>
+    <string name="informe_o_peso">Informe o Peso</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="bem_vindo">Bem Vindo!</string>
+</resources>
